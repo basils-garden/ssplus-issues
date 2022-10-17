@@ -1,2 +1,2 @@
 # ssplus-issues
-SS+ Issue Tracker
+SS+ issue tracker. Head to the Issues tab above.
